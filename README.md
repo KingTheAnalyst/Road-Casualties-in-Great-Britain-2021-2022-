@@ -16,26 +16,25 @@ The dataset contains accident-related information, including:
 - **Casualty Severity**: Categorized into fatal, serious, and slight.
 - **Vehicle Type**: Types of vehicles involved in accidents such as cars, buses, motorcycles, vans, and others.
 - **Road Type**: Type of road where accidents occurred (e.g., single carriageway, dual carriageway, roundabout).
-- **Road Surface Condition**: Conditions like dry, wet, icy.
+- **Road Surface Condition**: Conditions like dry, wet, and icy.
 - **Area Type**: Indicates whether the accident occurred in a rural or urban area.
-- **Light Conditions**: Whether the accident took place in daylight or darkness.
+- **Light Conditions**: Whether the accident occurred in daylight or darkness.
 
 The dataset covers:
 - **Total Casualties**: 417,883 across the two years.
 - **Yearly Casualty Breakdown**: Detailed trends of accidents per month in both 2021 and 2022.
 
 ## Analysis Process
-1. **Data Preprocessing**: The data was cleaned and missing values handled to avoid inconsistencies.
-2. **KPI (Key Performance Indicators) Analysis**:
+1. **KPI (Key Performance Indicators) Analysis**:
    - **Fatal Casualties**: Accidents that resulted in fatalities (7,135).
    - **Serious Casualties**: Accidents leading to serious injuries (5,931).
    - **Slight Casualties**: Minor injuries (351,436).
    - **Casualties by Vehicle Type**: Cars accounted for the highest number of casualties (333,485).
-3. **Monthly Trends**: A comparison of monthly casualties for 2021 and 2022, showing a slight decline with a peak during summer months.
-4. **Accident Distribution by Road and Area Type**:
-   - **Road Type**: Most accidents occurred on single carriageways.
+2. **Monthly Trends**: A comparison of monthly casualties for 2021 and 2022, showing a slight decline with a peak during summer months.
+3. **Accident Distribution by Road and Area Type**:
+   - **Road Type**: Most accidents occurred on single-carriageways.
    - **Area**: Urban areas had a significantly higher number of accidents (255.9K) compared to rural areas (162.0K).
-5. **Road Surface and Light Conditions**:
+4. **Road Surface and Light Conditions**:
    - Most accidents occurred on dry roads (66.9%).
    - A majority took place during daylight (305K).
 
