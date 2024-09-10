@@ -56,7 +56,7 @@ The final report provides an interactive overview of the key metrics. Users can 
 3. **Dry Roads are Not Necessarily Safe**: Accidents still occur frequently on dry roads.
 4. **Seasonal Trends**: Casualties peak in summer, possibly due to increased holiday travel.
 
-## Conclusion and Recommendations
+## Recommendations
 - **Focus on Urban Areas**: Prioritize road safety initiatives in urban areas.
 - **Improve Safety on Single Carriageways**: Implement speed controls and better signage.
 - **Driver Awareness Programs**: Educate drivers about risks, especially during daylight hours.
