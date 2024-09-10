@@ -1,4 +1,6 @@
 # Road Accident Analysis in Britain (2021-2022)
+![Cover picture]((https://github.com/KingTheAnalyst/Road-Casualties-in-Great-Britain-2021-2022-/blob/main/road%20casualties.jpg)
+
 
 ## Project Overview
 This project analyzes road accident data in Britain from 2021 to 2022, focusing on different aspects of road casualties. The goal is to provide insights into the number of casualties, their severity, and various contributing factors such as vehicle type, road surface conditions, and area type (rural or urban). The findings are presented through a dashboard for clear visualization and decision-making.
@@ -37,8 +39,11 @@ The dataset covers:
    - Most accidents occurred on dry roads (66.9%).
    - A majority took place during daylight (305K).
 
-## Visualization (Dashboard)
-The final dashboard provides an interactive overview of the key metrics. Users can filter by year and area to explore the data in detail. Key components of the dashboard include:
+## Visualization (Report)
+![Report]((https://github.com/KingTheAnalyst/Road-Casualties-in-Great-Britain-2021-2022-/blob/main/Screenshot%202024-09-10%20151105.png)
+
+
+The final report provides an interactive overview of the key metrics. Users can filter by year and area to explore the data in detail. Key components of the dashboard include:
 1. **Total Casualties**: Displays the overall number of casualties.
 2. **Severity Breakdown**: The percentage of accidents resulting in fatal, serious, and slight casualties.
 3. **Vehicle Type Breakdown**: Casualties involving different vehicle types.
@@ -50,7 +55,7 @@ The final dashboard provides an interactive overview of the key metrics. Users c
 1. **Urban Areas Have More Accidents**: Likely due to higher population density and traffic.
 2. **Single Carriageways are the Most Dangerous**: Suggesting a need for more safety measures.
 3. **Dry Roads are Not Necessarily Safe**: Accidents still occur frequently on dry roads.
-4. **Seasonal Trends**: Casualties peak in summer, possibly due to increased travel during holidays.
+4. **Seasonal Trends**: Casualties peak in summer, possibly due to increased holiday travel.
 
 ## Conclusion and Recommendations
 - **Focus on Urban Areas**: Prioritize road safety initiatives in urban areas.
