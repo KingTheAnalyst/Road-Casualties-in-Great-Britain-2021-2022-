@@ -1,5 +1,5 @@
 # Road Accident Analysis in Britain (2021-2022)
-![Cover picture]((https://github.com/KingTheAnalyst/Road-Casualties-in-Great-Britain-2021-2022-/blob/main/road%20casualties.jpg)
+![Cover picture](https://github.com/KingTheAnalyst/Road-Casualties-in-Great-Britain-2021-2022-/blob/main/road%20casualties.jpg)
 
 
 ## Project Overview
@@ -40,7 +40,7 @@ The dataset covers:
    - A majority took place during daylight (305K).
 
 ## Visualization (Report)
-![Report]((https://github.com/KingTheAnalyst/Road-Casualties-in-Great-Britain-2021-2022-/blob/main/Screenshot%202024-09-10%20151105.png)
+![Report](https://github.com/KingTheAnalyst/Road-Casualties-in-Great-Britain-2021-2022-/blob/main/Screenshot%202024-09-10%20151105.png)
 
 
 The final report provides an interactive overview of the key metrics. Users can filter by year and area to explore the data in detail. Key components of the dashboard include:
